@@ -5,8 +5,8 @@
 - Links:
 
 ### Project 2
--Description:
--Links:
+- Description:
+- Links:
 
 # Education
 - Southern New Hampshire University

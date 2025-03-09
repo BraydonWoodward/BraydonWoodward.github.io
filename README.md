@@ -1,4 +1,4 @@
-# BraydonWoodward.github.io
+# Braydon Woodward
 ## Projects
 ### Project 1
 - Description:

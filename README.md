@@ -1,16 +1,9 @@
-# Braydon Woodward
-## Projects
-### Project 1
-- Description:
-- Links:
-
-### Project 2
-- Description:
-- Links:
+## Project Repository
+# https://github.com/BraydonWoodward
 
 # Education
 - Southern New Hampshire University
 
 # Workplace
-- Workplace 1:
-- Workplace 2: 
+- Workplace 1: 52 Creative (Audio, Visual, Lighting Integrations)
+- Workplace 2: Remax Reinvented

@@ -9,4 +9,4 @@
 - Workplace 2: Remax Reinvented
 
 ## SNHU CS Capstone Code Review
-Youtube Link: [(https://youtu.be/pOqaEoRmagc ](url) www.youtube.com ]
+Youtube Link: [SNHU CS Capstone Code Review](https://www.youtube.com/watch?v=pOqaEoRmagc)

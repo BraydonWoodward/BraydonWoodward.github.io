@@ -1,5 +1,10 @@
-## Project Repository
-### https://github.com/BraydonWoodward
+## Project One Algorithms and Data Structures:
+### Original: https://github.com/BraydonWoodward/CS300Submission
+### Enhanced: https://github.com/BraydonWoodward/CourseTreeRBT
+
+## Project Two Software Design/Engineering and Databases: :
+### Original: https://github.com/BraydonWoodward/CS340
+### Enhanced: https://github.com/BraydonWoodward/AnimalShelterDashboard_Updated
 
 # Education
 - Southern New Hampshire University

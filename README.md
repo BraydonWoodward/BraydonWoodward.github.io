@@ -10,6 +10,9 @@ The process of enhancing this artifact was both challenging and enriching. I beg
 - Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
+### Screen Shots
+![original BST (750 records)](/docs/assets/OriginalTestingResults750Records.png)
+
 ## Project Two Software Design/Engineering and Databases: 
 #### Original: https://github.com/BraydonWoodward/CS340
 #### Enhanced: https://github.com/BraydonWoodward/AnimalShelterDashboard_Updated

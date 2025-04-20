@@ -11,7 +11,7 @@ The process of enhancing this artifact was both challenging and enriching. I beg
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
 ### Screen Shots
-![original BST (750 records)](/docs/assets/OriginalTestingResults750Records.png)
+![original BST (750 records)](/docs/assets/OriginalTestingResults750Records.png) Original BST (750 records)
 
 ## Project Two Software Design/Engineering and Databases: 
 #### Original: https://github.com/BraydonWoodward/CS340

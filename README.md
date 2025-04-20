@@ -22,6 +22,11 @@ The process of enhancing this artifact was both challenging and enriching. I beg
 #### Original: https://github.com/BraydonWoodward/CS340
 #### Enhanced: https://github.com/BraydonWoodward/AnimalShelterDashboard_Updated
 
+#### Narrative:
+I chose the Animal Shelter Dashboard as a key artifact for my ePortfolio because it shows how I turned a simple Python prototype into a full‑stack JavaScript app in early 2025. Now it uses a Node.js/Express backend with MongoDB, a React/Vite frontend, and Docker Compose for easy deployment. Users can search and filter animals, view details in a modal with a map, and even add new records through a “Create Animal” form.
+
+I included this project because it highlights many skills I developed: designing RESTful APIs with async/await, modeling data in Mongoose with unique indexes, building responsive React components and forms, and solving real‑world issues like bundling Leaflet’s marker icons. Along the way I learned to debug missing imports, handle numeric input correctly, and configure Docker volumes so data stays persistent. I also wrote clear error handling for duplicate record numbers. This work meets course outcomes in full‑stack development, database design, and containerization. I plan to keep improving on testing and performance tuning, but this artifact already shows my growth in building and deploying a robust web application
+
 # Education
 - Southern New Hampshire University
 

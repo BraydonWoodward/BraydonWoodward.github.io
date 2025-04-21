@@ -1,6 +1,9 @@
 ## Project One Algorithms and Data Structures:
-#### Original: https://github.com/BraydonWoodward/CS300Submission
-#### Enhanced: https://github.com/BraydonWoodward/CourseTreeRBT
+#### Original: 
+https://github.com/BraydonWoodward/CS300Submission
+
+#### Enhanced: 
+https://github.com/BraydonWoodward/CourseTreeRBT
 #### Narrative:
 This artifact is my enhanced Course Tree application, a self-balancing Red–Black Tree designed to manage an academic course catalog for ABCU's Computer Science department. Originally created in December 2023, I revisited and significantly improved the project in March 2025. In this updated version, I replaced the prior binary search tree implementation, which was prone to degeneration and stack overflows when handling sorted data, with a robust Red–Black Tree that leverages modern C++ smart pointers for safe memory management. I chose to include this project in my ePortfolio because it not only showcases my abilities in implementing advanced data structures and algorithms, but it also demonstrates a concrete understanding of object-oriented design, resource management, and performance optimization. Key components, such as tree rotations, insertion fixup, and efficient in-order traversal, show my competency in utilizing complex logic to maintain the tree’s balanced properties. The enhancements significantly improved the artifact by ensuring worst-case logarithmic performance, even with large datasets, and by mitigating common pitfalls like deep recursion errors.
 
@@ -19,8 +22,11 @@ The process of enhancing this artifact was both challenging and enriching. I beg
 ![enhanced RBT  2000 records)](/docs/assets/EnhancedTestingResults2000Records.png)
 
 ## Project Two Software Design/Engineering and Databases: 
-#### Original: https://github.com/BraydonWoodward/CS340
-#### Enhanced: https://github.com/BraydonWoodward/AnimalShelterDashboard_Updated
+#### Original: 
+https://github.com/BraydonWoodward/CS340
+
+#### Enhanced: 
+https://github.com/BraydonWoodward/AnimalShelterDashboard_Updated
 
 #### Narrative:
 I chose the Animal Shelter Dashboard as a key artifact for my ePortfolio because it shows how I turned a simple Python prototype into a full‑stack JavaScript application. It now features a Node.js and Express backend connected to a MongoDB database, a React and Vite frontend, and Docker Compose for easy, repeatable deployment. Users can filter and search animal records by name, breed, or type, click a row to view details in a modal overlay with an interactive Leaflet map, and add new records through a “Create Animal” form that enforces required fields and unique identifiers.

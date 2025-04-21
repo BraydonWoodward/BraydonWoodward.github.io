@@ -60,7 +60,7 @@ My work on the animal shelter dashboard migration to Node.js and React has signi
 #### Professional Aspirations
 As I approach the end of my program, my goal is to gain as much practical experience as possible. I aim to create software or start a company that delivers advanced AI solutions to everyday users. I believe that AI has the power to make life easier and more fulfilling, and my vision is to simplify and make these technologies more accessible. The experience I’ve gained through my coursework and projects has provided a solid foundation for pursuing this goal, and I am excited to apply these skills in a professional setting.
 
-#### Artifacts in the Portfolio: A Cohesive Demonstration of Skills
+#### Artifacts in the Portfolio
 The artifacts included in this portfolio reflect the full spectrum of my development as a computer scientist. My work with data structures like the Red-Black Tree, along with my full-stack development of the animal shelter dashboard, demonstrate my ability to handle both the foundational and modern aspects of software engineering. Each project shows my attention to detail, my ability to adapt and refine my work, and my commitment to building scalable, secure, and efficient applications.
 
 The combination of these technical projects, paired with the lessons I’ve learned about collaboration, time management, and iterative development, has prepared me to step into the next phase of my career with confidence. I look forward to leveraging these skills in the real world and continuing to grow as a software developer and innovator.

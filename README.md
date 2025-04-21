@@ -69,7 +69,7 @@ The combination of these technical projects, paired with the lessons I’ve lear
 - Southern New Hampshire University
 
 # Workplace
-- Workplace 1: 52 Creative (Audio, Visual, Lighting Integrations)
-- Workplace 2: Remax Reinvented
+- 52 Creative (Audio, Visual, Lighting Integrations)
+- Remax Reinvented
 
 

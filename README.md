@@ -37,6 +37,14 @@ There are still a few updates I would like to add to make it a robust and all‑
 - Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
+### Screen Shots
+#### Animal Dashboard Webpage
+![Animal Dashboard](/docs/assets/AnimalDashboard.png)
+#### Animal Modal
+![Animal Modal](/docs/assets/AnimalModal.png)
+#### Create Animal Modal
+![Create Animal Modal](/docs/assets/CreateModal.png)
+
 ## SNHU CS Capstone Code Review
 Youtube Link: [SNHU CS Capstone Code Review](https://www.youtube.com/watch?v=pOqaEoRmagc)
 

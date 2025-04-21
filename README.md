@@ -23,11 +23,47 @@ The process of enhancing this artifact was both challenging and enriching. I beg
 #### Enhanced: https://github.com/BraydonWoodward/AnimalShelterDashboard_Updated
 
 #### Narrative:
-I chose the Animal Shelter Dashboard as a key artifact for my ePortfolio because it shows how I turned a simple Python prototype into a full‑stack JavaScript application at the start of 2025. It now features a Node.js and Express backend connected to a MongoDB database, a React and Vite frontend, and Docker Compose for easy, repeatable deployment. Users can filter and search animal records by name, breed, or type, click a row to view details in a modal overlay with an interactive Leaflet map, and add new records through a “Create Animal” form that enforces required fields and unique identifiers.
+I chose the Animal Shelter Dashboard as a key artifact for my ePortfolio because it shows how I turned a simple Python prototype into a full‑stack JavaScript application. It now features a Node.js and Express backend connected to a MongoDB database, a React and Vite frontend, and Docker Compose for easy, repeatable deployment. Users can filter and search animal records by name, breed, or type, click a row to view details in a modal overlay with an interactive Leaflet map, and add new records through a “Create Animal” form that enforces required fields and unique identifiers.
 
-I included this project because it highlights many skills I developed throughout the course. On the backend, I designed RESTful endpoints with async/await, set up Mongoose schemas with unique indexes for rec_num and animal_id, and handled duplicate‑key errors gracefully. On the frontend, I built responsive table and form components, managed global state with React Context, and learned to import Leaflet’s marker icons so they bundle correctly under Vite and Nginx. I also refined CSS for modal sizing and centering, and ensured numeric inputs convert to real numbers to avoid subtle bugs in filtering and calculations.
+I included this project because it highlights many skills I developed throughout the course. On the backend, I designed RESTful endpoints with async/await, set up Mongoose schemas with unique indexes for rec_num and animal_id, and handled duplicate‑key errors gracefully. On the frontend, I built responsive table and form components, managed global state with React Context, and learned to import Leaflet’s marker icons so they bundle correctly under Vite and Nginx. I also defined global CSS for consistency across multiple devices.
 
-During development, I faced challenges like wiring up the form submit handler correctly, debugging container port bindings, and configuring persistent Docker volumes for MongoDB storage. I solved these by adding console logs, inspecting network requests in DevTools, and adjusting my Docker Compose file to use named volumes. This artifact fully meets course outcomes in full‑stack web development, database modeling, and containerization. In future iterations, I plan to add automated testing and performance optimizations to continue improving my skills.
+During development, I faced challenges like wiring up the form submit handler correctly, debugging container port bindings, and configuring persistent Docker volumes for MongoDB storage. I solved these by adding console logs, inspecting network requests in DevTools, and adjusting my Docker Compose file to use named volumes. 
+
+There are still a few updates I would like to add to make it a robust and all‑around better application. First, I plan to implement user authentication and role‑based access control so that only authorized staff can add or modify records. Next, I want to expand the search interface with multi‑field filtering, autocomplete suggestions, and fuzzy matching to help users find animals more quickly. Finally, I’ll polish the UI by adding responsive layout refinements, accessible form labels and keyboard navigation, and a refined theme design. These enhancements will not only improve security and usability but also elevate the overall user experience.
+
+#### Course outcomes met:
+- Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+- Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+- Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+- Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+## SNHU CS Capstone Code Review
+Youtube Link: [SNHU CS Capstone Code Review](https://www.youtube.com/watch?v=pOqaEoRmagc)
+
+## Professional Self-Assesment 
+As I near the completion of my Computer Science program, I reflect on how the coursework and personal projects have significantly shaped my professional goals and technical abilities. The development of this ePortfolio has allowed me to showcase a range of skills and experiences, demonstrating both my technical expertise and my growth as a professional.
+
+#### Strengths and Professional Growth
+One of the most significant challenges I encountered during my projects was time estimation. When migrating the animal shelter dashboard from Python to Node.js, I struggled to gauge how much of the dashboard I could realistically recreate within the given time constraints. I had to balance work, life, and school responsibilities, which made it difficult to add the level of functionality and refinement I initially envisioned. This project taught me the importance of prioritizing features and focusing on core functionality first, which is a valuable lesson in both software development and time management.
+
+Additionally, my work on enhancing the Course Tree project—by transitioning from a binary search tree to a Red-Black Tree—allowed me to deepen my understanding of algorithms and data structures. The Red-Black Tree improvement optimized performance, and my addition of smart pointers and error handling demonstrated my focus on writing robust, maintainable code. These enhancements were not just technical improvements but also key learning moments in memory management and ensuring the stability of the application.
+
+#### Collaborating and Communicating in a Team Environment
+In addition to the technical challenges, I also faced personal growth moments in collaboration and communication. One of the most impactful experiences was my role as the social media ambassador for the Computer Science club. While I was passionate about the club's mission, I found it difficult to align with the president, who lacked the same level of enthusiasm. This created challenges in motivating the team, but I did my best to stay engaged and focused on the club’s goals. This experience reinforced the importance of communication and maintaining energy, even in less-than-ideal circumstances. It also highlighted the value of team alignment and the challenges that come with working in diverse team environments.
+
+#### Learning from Agile Development
+A major turning point in my development process was learning about agile development. I used to believe that I needed to design and build an entire program before starting the development process. However, through the agile methodology, I learned that an iterative approach—building in small, manageable stages and refining as you go—is far more efficient. This realization has changed how I approach software development, particularly when working on large, complex projects. It also gave me confidence in rapid prototyping and allowed me to adapt more quickly to changing requirements.
+
+#### Full-Stack Development and Real-World Application
+My work on the animal shelter dashboard migration to Node.js and React has significantly improved my full-stack development skills. Beyond this project, I plan to adapt the dashboard into a tool for breeding dogs and puppies, which will help streamline tracking for my wife’s business. This transition aligns with my professional goal of creating AI-powered solutions that simplify complex tasks and free up time for people to focus on what they love. This project not only allowed me to hone my technical skills but also gave me the opportunity to solve a real-world problem, bridging my technical knowledge with tangible benefits for others.
+
+#### Professional Aspirations
+As I approach the end of my program, my goal is to gain as much practical experience as possible. I aim to create software or start a company that delivers advanced AI solutions to everyday users. I believe that AI has the power to make life easier and more fulfilling, and my vision is to simplify and make these technologies more accessible. The experience I’ve gained through my coursework and projects has provided a solid foundation for pursuing this goal, and I am excited to apply these skills in a professional setting.
+
+#### Artifacts in the Portfolio: A Cohesive Demonstration of Skills
+The artifacts included in this portfolio reflect the full spectrum of my development as a computer scientist. My work with data structures like the Red-Black Tree, along with my full-stack development of the animal shelter dashboard, demonstrate my ability to handle both the foundational and modern aspects of software engineering. Each project shows my attention to detail, my ability to adapt and refine my work, and my commitment to building scalable, secure, and efficient applications.
+
+The combination of these technical projects, paired with the lessons I’ve learned about collaboration, time management, and iterative development, has prepared me to step into the next phase of my career with confidence. I look forward to leveraging these skills in the real world and continuing to grow as a software developer and innovator.
 
 # Education
 - Southern New Hampshire University
@@ -36,5 +72,4 @@ During development, I faced challenges like wiring up the form submit handler co
 - Workplace 1: 52 Creative (Audio, Visual, Lighting Integrations)
 - Workplace 2: Remax Reinvented
 
-## SNHU CS Capstone Code Review
-Youtube Link: [SNHU CS Capstone Code Review](https://www.youtube.com/watch?v=pOqaEoRmagc)
+
